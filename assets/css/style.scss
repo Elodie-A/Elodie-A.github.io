@@ -29,12 +29,20 @@ nav {
 
 ul.menu {
   background: orange;
+  list-style: none;
+  
 }
 
 .menu-item{
   background: yellow;
   width: 100%;
-  list-style: none;
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: prple;
+  color: white;
+  
+ 
 }
   
 
