@@ -32,11 +32,15 @@ nav {
 
 .menu>li{
   list-style: none;
+  border: 2px solid red;
 }
 
 .menu-item{
   list-style: none;
-  display: block;
+  display: inline-block;
+  margin: 1px;
+  padding: 5px;
+  background-color: blue;
 }
 
 h1{
