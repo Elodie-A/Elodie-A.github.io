@@ -17,6 +17,16 @@ nav {
   display: flex;
   flex-flow: row wrap;
 }
+
+ul.menu {
+  background: orange;
+}
+
+.menu-item{
+  background: yellow;
+  width: 100%;
+  list-style: none;
+}
   
 
 h1{
