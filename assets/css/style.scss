@@ -12,7 +12,11 @@ header{
   height: 50px;
 }
 
-
+nav {
+  background: red;
+  display: flex;
+  flex-flow: row wrap;
+  
 
 h1{
  color: white;
