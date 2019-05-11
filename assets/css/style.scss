@@ -19,21 +19,6 @@ nav {
   border: 2px solid yellow;
  }
 
-.header-title {
-  flex-shrink: 0;
-  font-size: 2em;
-}
-
-.menu{
-  width: 100%;
-  flex-direction: row;
-}
-
-.menu>li{
-  list-style: none;
-  border: 2px solid red;
-}
-
 .menu-item{
   list-style: none;
   display: inline-block;
