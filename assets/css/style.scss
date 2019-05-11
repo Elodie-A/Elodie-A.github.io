@@ -27,6 +27,7 @@ nav {
 
 .menu{
   width: 100%;
+  flex-direction: row;
 }
 
 .menu>li{
@@ -35,6 +36,7 @@ nav {
 
 .menu-item{
   list-style: none;
+  display: block;
 }
 
 h1{
