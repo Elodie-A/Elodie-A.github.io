@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
-body{
-  background-color: purple;
+*{
+  background-color: black;
+  color: white;
  }
+
+h1{
+ color: lime;
+}
