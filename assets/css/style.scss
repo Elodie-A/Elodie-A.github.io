@@ -15,7 +15,6 @@ nav {
   padding: 10px;
   display: flex;
   flex-flow: row wrap;
-  align-items: flex-end;
   justify-content: space-evenly;
   border: 2px solid yellow;
  }
@@ -33,7 +32,7 @@ nav {
 .menu>li{
   list-style: none;
   border: 2px solid red;
-  heigth: 5px;
+  flex
 }
 
 .menu-item{
@@ -43,6 +42,7 @@ nav {
   padding: 5px;
   background-color: blue;
   width: 20px;
+  align-self: auto;
 }
 
 h1{
