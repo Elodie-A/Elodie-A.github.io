@@ -42,15 +42,16 @@ ul.menu {
 .menu-item{
   background: yellow;
   display: block;
-  text-decoration: none;
   cursor: pointer;
   background-color: lime;
   color: white;
   margin: 1px;
-  
- 
+  width: 100%;
 }
   
+a{
+    text-decoration: none;
+}
 
 h1{
  color: white;
